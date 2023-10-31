@@ -1,0 +1,122 @@
+commit ca4bca4b995d56823f51ed67561b1c0ef1d95033
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 20:34:21 2023 -0400
+
+    Agregando 3 parrafos
+
+commit 2cbde2941d755b88be09d8c8325db0731e19ddf0
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 20:20:22 2023 -0400
+
+    nuevo mensaje para el último commit
+
+commit 3268f7fe3774213d588bb1d227d1ee81ba6bce02
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 20:16:53 2023 -0400
+
+    Aplicando estos cambios molestos
+
+commit 2c307492b7d8b6763a4829ee1de8772defc7880c
+Merge: c639091 9cfb324
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 20:13:01 2023 -0400
+
+    Aplicando estos cambios molestos
+
+commit c639091a3eaf02ee41f15daaf9e38af6627173a5
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 18:08:33 2023 -0400
+
+    Agregando las estaciones del año
+
+commit 9cfb324c182d9837f713070e4f76ba3c7cd5553e
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 18:08:33 2023 -0400
+
+    Agregando las estaciones del año
+
+commit 44cb50dab8f82d92519ab2701e5faaa05f157f36
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 18:07:41 2023 -0400
+
+    Agregando las estaciones del año
+
+commit f91c6a18483eb24fd852d5033125ec8dbe4d8e01
+Merge: 8875a97 793c464
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 17:59:43 2023 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 793c46473eb38c9368ec0747a75689c51c3ca64f
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 17:49:02 2023 -0400
+
+    Agregando index.js al index.html
+
+commit 8875a97b31c1f209b2e6e55a766277a64962eea4
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 17:44:17 2023 -0400
+
+    Agregando style.css al index.html
+
+commit dec6b618cb9828b609c900615483b2511adb0379
+Merge: 7da4a30 a5f351c
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 17:30:50 2023 -0400
+
+    Merge branch 'js'
+
+commit a5f351c37978a68672577f465b7f6b28995267c9
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 16:59:12 2023 -0400
+
+    Creando index.js
+
+commit 7da4a30617246b57189be532270864cde6e3ba74
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 16:50:33 2023 -0400
+
+    Creando style.css
+
+commit 1a3ab29f5b22556ce005162a16f8bb020c067d13
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Mon Oct 30 16:45:08 2023 -0400
+
+    Creando index.html
+
+commit f674fd9e1be481e7ce39ea58fd6309ff158545df
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Sun Oct 29 18:45:53 2023 -0400
+
+    Ignorando archivos .exe
+
+commit c491fed1945bc2eb8fbeb6b44d01e32619d1b631
+Author: Luisrivera1211 <129557001+Luisrivera1211@users.noreply.github.com>
+Date:   Sun Oct 29 18:01:09 2023 -0400
+
+    Creando licencia del repositorio
+
+commit 4f98d9a76c38c12de6336015656f9c9c7a5c5578
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Sun Oct 29 17:23:17 2023 -0400
+
+    Este es otro commit mas
+
+commit 8316c6a69dac9cfadf2cc806bda8d5b610a4a363
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Sat Oct 28 19:10:30 2023 -0400
+
+    Agregando mas contenido al README
+
+commit af22d7703914cc019456a1dd716675457c77eed3
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Sat Oct 28 18:20:18 2023 -0400
+
+    Agregando contenido Incial al README
+
+commit 283b4535c86e7fbf9f6e624c4dfda259e430250a
+Author: Luis Rivera <moscosoriveral@gmail.com>
+Date:   Sat Oct 28 18:09:29 2023 -0400
+
+    Primer commit😁

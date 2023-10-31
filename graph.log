@@ -1,0 +1,27 @@
+* ca4bca4 Agregando 3 parrafos
+* 2cbde29 nuevo mensaje para el último commit
+* 3268f7f Aplicando estos cambios molestos
+*   2c30749 Aplicando estos cambios molestos
+|\  
+| * 9cfb324 Agregando las estaciones del año
+* | c639091 Agregando las estaciones del año
+|/  
+* 44cb50d Agregando las estaciones del año
+*   f91c6a1 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 793c464 Agregando index.js al index.html
+* | 8875a97 Agregando style.css al index.html
+* |   dec6b61 Merge branch 'js'
+|\ \  
+| * | a5f351c Creando index.js
+* | | 7da4a30 Creando style.css
+| |/  
+|/|   
+* | 1a3ab29 Creando index.html
+|/  
+* f674fd9 Ignorando archivos .exe
+* c491fed Creando licencia del repositorio
+* 4f98d9a Este es otro commit mas
+* 8316c6a Agregando mas contenido al README
+* af22d77 Agregando contenido Incial al README
+* 283b453 Primer commit😁
