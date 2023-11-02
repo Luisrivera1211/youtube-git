@@ -8,4 +8,4 @@ Haciendo que el **README** se vea mas extenso.
 
 Este commit es para oficializar nuestra version **1.1.0**
 
-Haciendo el README mas largo.
+Haciendo un arreglo al **README**
