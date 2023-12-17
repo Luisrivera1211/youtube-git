@@ -9,3 +9,5 @@ Haciendo que el **README** se vea mas extenso.
 Este commit es para oficializar nuestra version **1.1.0**
 
 Haciendo un arreglo al **README**
+
+Bregando otra vez con git xd.
